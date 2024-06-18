@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/_Projects/Unreal/ToonTanks/Content/Maps/Main.umap",
+				"D:/EpicLibrary/UE_5.4/Engine/Content/BasicShapes/Cube.uasset",
+				"E:/_Projects/Unreal/ToonTanks/Content/Assets/Meshes/SM_Projectile.uasset",
+				"E:/_Projects/Unreal/ToonTanks/Content/Assets/Meshes/SM_Sphere.uasset",
+				"E:/_Projects/Unreal/ToonTanks/Content/Assets/Meshes/SM_TankBase.uasset",
+				"E:/_Projects/Unreal/ToonTanks/Content/Assets/Meshes/SM_TankTurret.uasset",
+				"D:/EpicLibrary/UE_5.4/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset",
+				"E:/_Projects/Unreal/ToonTanks/Content/Assets/Meshes/SM_TowerBase.uasset",
+				"E:/_Projects/Unreal/ToonTanks/Content/Assets/Meshes/SM_TowerTurret.uasset",
+				"E:/_Projects/Unreal/ToonTanks/Content/Blueprints/Pawns/BP_PawnTurret.uasset",
+				"E:/_Projects/Unreal/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset",
+				"E:/_Projects/Unreal/ToonTanks/Content/Assets/Inputs/Mappings/IMC_Tank.uasset",
+				"E:/_Projects/Unreal/ToonTanks/Content/Inputs/Actions/IA_Movement.uasset",
+				"E:/_Projects/Unreal/ToonTanks/Content/Inputs/Actions/AI_Fire.uasset",
+				"E:/_Projects/Unreal/ToonTanks/Content/Inputs/Mappings/IMC_Tank.uasset",
+				"E:/_Projects/Unreal/ToonTanks/Content/Inputs/Actions/IA_Move.uasset",
+				"E:/_Projects/Unreal/ToonTanks/Content/Inputs/Actions/IA_TurretRotate.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\_projects\\unreal\\toontanks\\source\\toontanks\\basepawn.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\_projects\\unreal\\toontanks\\intermediate\\build\\win64\\x64\\toontankseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "e:\\_projects\\unreal\\toontanks\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\toontanks\\definitions.toontanks.h",
+            "e:\\_projects\\unreal\\toontanks\\source\\toontanks\\basepawn.h",
+            "e:\\_projects\\unreal\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\basepawn.generated.h",
+            "d:\\epiclibrary\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
+            "d:\\epiclibrary\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\epiclibrary\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\epiclibrary\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\capsulecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

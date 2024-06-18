@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\_projects\\unreal\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\tank.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\_projects\\unreal\\toontanks\\intermediate\\build\\win64\\x64\\toontankseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "e:\\_projects\\unreal\\toontanks\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\toontanks\\definitions.toontanks.h",
+            "e:\\_projects\\unreal\\toontanks\\source\\toontanks\\tank.h",
+            "e:\\_projects\\unreal\\toontanks\\source\\toontanks\\basepawn.h",
+            "e:\\_projects\\unreal\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\basepawn.generated.h",
+            "d:\\epiclibrary\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "d:\\epiclibrary\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "e:\\_projects\\unreal\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\tank.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
